@@ -1,0 +1,26 @@
+Enter the number of crew members being stored: 2
+
+Enter [0] Member Name:Gabe
+Enter [0] Member's crew number(0-2): 0
+
+Enter [1] Member Name:JOhn
+Enter [1] Member's crew number(0-2): 7
+
+Out of Range Integer-Try again: 
+Enter [1] Member's crew number(0-2): 2
+
+
+Enter the number of Aircrafts needing work: 
+If Invalid - Will reprompt: 2
+
+Enter Aircraft #0 ID:
+If Invalid - Will reprompt:783433
+
+If Invalid - Will reprompt:7555
+
+Enter Aircraft #1 ID:
+If Invalid - Will reprompt:1213
+
+If Invalid - Will reprompt:2324
+
+-1188624240 

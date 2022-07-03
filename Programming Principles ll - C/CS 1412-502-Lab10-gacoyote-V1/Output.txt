@@ -1,0 +1,27 @@
+Enter First Name: bell
+Enter Last Name: clifford
+Enter Gender: female
+Enter Date of Birth (mm dd yyyy): 10 31 1930
+Enter Height (Centimeters): 150
+Enter Weight (Kilograms): 70
+
+
+Profile Infromation
+__________________________
+First Name: bell
+Last Name: clifford
+Gender: female
+Date of Birth: 10/31/1930
+Height (Centimeters): 150.0
+Weight (Kilograms): 70.0
+
+Age in Years: 90
+BMI: 23.3
+Max Heart Rate: 130
+Target Heart Rate Range: 75 - 128 bpm
+
+BMI VALUES
+Underweight: less than 18.5
+Normal:      between 18.5 and 24.9
+Overweight:  between 25 and 29.9
+Obese:       30 or greater

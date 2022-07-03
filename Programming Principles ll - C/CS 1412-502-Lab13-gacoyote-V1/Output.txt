@@ -1,0 +1,14 @@
+Enter Arithmetic Expression with single digits integers,
+[!!!AND NO SPACES!!!] 
+Example: (6+2)*5-8/4
+
+ENTER EXPRESSION: 6+2*5-8/4
+
+
+Entered Expression: 6+2*5-8/4
+
+
+
+
+//The program didn't finish; something was stopping it from continueing executing the code
+//I don't know what it was

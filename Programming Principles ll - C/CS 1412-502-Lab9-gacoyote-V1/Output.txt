@@ -1,0 +1,13 @@
+Enter Item Name: corn
+Enter Item Cost in Cents: 89
+Enter Product Category ('M' for meat, 'P' for produce, 'D' for dairy, 'C' for canned goods, 'N' for nonfoods): C
+
+Enter expiration date (month and year only):11 2020
+Enter the aisle number:12
+Enter the aisle side (letter 'A' or 'B'): B
+
+
+
+The data line for the item you enter is: 
+
+corn 89C 11 2020 12B 

@@ -1,0 +1,47 @@
+1.) Create Flight Record
+2.) Delete Flight Reccord
+3.) Update Flight Record
+4.) Make A Reservation
+5.) Cancel A Reservation
+6.) EXIT; Creates 'FlightsData.txt'
+------Enter Option Number: 1
+
+
+Enter Flight Number: gabe
+Enter City of Depature: dallas
+Enter Destination: austin
+Enter Date and time of Depature in correct format (MMDD;hh:mm): 0321;07:20
+Enter Date and time of arrival in correct format (MMDD;hh:mm): 0321;08:50
+Enter Number of first-class seats available: 3
+Enter Number of first-class seats sold: 10
+Enter Number of coach seats available: 14
+Enter Number of coach seats sold: 43
+
+1.) Create Flight Record
+2.) Delete Flight Reccord
+3.) Update Flight Record
+4.) Make A Reservation
+5.) Cancel A Reservation
+6.) EXIT; Creates 'FlightsData.txt'
+------Enter Option Number: 1
+
+
+Enter Flight Number: gabe2
+Enter City of Depature: lubbock
+Enter Destination: china
+Enter Date and time of Depature in correct format (MMDD;hh:mm): 0531;21:30
+Enter Date and time of arrival in correct format (MMDD;hh:mm): 0531;05:20
+Enter Number of first-class seats available: 9
+Enter Number of first-class seats sold: 5
+Enter Number of coach seats available: 10
+Enter Number of coach seats sold: 40
+
+1.) Create Flight Record
+2.) Delete Flight Reccord
+3.) Update Flight Record
+4.) Make A Reservation
+5.) Cancel A Reservation
+6.) EXIT; Creates 'FlightsData.txt'
+------Enter Option Number: 6
+
+-----EXITED-----

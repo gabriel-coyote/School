@@ -1,0 +1,20 @@
+Input the number of elements to store in the array: 5
+
+Input 5 elements to the array: 
+element - 0: 15
+
+element - 1: 25
+
+element - 2: 45
+
+element - 3: 35
+
+element - 4: 50
+
+Ascending Order Array:
+[15, 25, 35, 45, 50, ]
+
+Input number to search : 45
+
+Found number 45 in index 3
+
