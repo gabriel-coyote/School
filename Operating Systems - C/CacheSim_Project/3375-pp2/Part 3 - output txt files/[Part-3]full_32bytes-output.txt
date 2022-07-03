@@ -1,0 +1,13 @@
+
+==================================
+Cache type:    Fully-associative Cache
+Block Size:		32 bytes
+Cache Size:		32 KB
+File:					trace.stream
+==================================
+Cache Hits:    2965614
+Cache Misses:  268441
+
+Hit Rate:       % 91.70 Percent
+Miss Rate:      % 8.30 Percent
+

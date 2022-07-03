@@ -1,0 +1,13 @@
+
+==================================
+Cache type:    Direct-Mapped Cache
+Block Size:		64 bytes
+Cache Size:		32 KB
+File:					trace.hpcg
+==================================
+Cache Hits:    1301327
+Cache Misses:  198673
+
+Hit Rate:       % 86.76 Percent
+Miss Rate:      % 13.24 Percent
+

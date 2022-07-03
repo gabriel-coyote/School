@@ -1,0 +1,13 @@
+
+==================================
+Cache type:    Direct-Mapped Cache
+Block Size:		64 bytes
+Cache Size:		32 KB
+File:					trace.stream_10
+==================================
+Cache Hits:    0
+Cache Misses:  10
+
+Hit Rate:       % 0.00 Percent
+Miss Rate:      % 100.00 Percent
+

@@ -1,0 +1,13 @@
+
+==================================
+Cache type:    Direct-Mapped Cache
+Block Size:		64 bytes
+Cache Size:		32 KB
+File:					hw5_memoryaddr
+==================================
+Cache Hits:    7
+Cache Misses:  5
+
+Hit Rate:       % 58.33 Percent
+Miss Rate:      % 41.67 Percent
+
