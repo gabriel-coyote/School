@@ -1,0 +1,4 @@
+Hello, gacoyote
+Current date is Mon Feb 14 13:34:43 CST 2022
+User is gacoyote
+Current directory /home/TTU/gacoyote/OS/shellscripting

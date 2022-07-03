@@ -1,0 +1,57 @@
+
+Testing System Programming w/ Multiple Childs...
+
+************************************************
+
+
+--- [ Multiple NumChild: 2 ] ---
+
+Hello! My process PID is: 75211 ... My Parent's PID: 75210
+Hello! My process PID is: 75212 ... My Parent's PID: 75210
+
+--- [ Multiple NumChild: 4 ] ---
+
+Hello! My process PID is: 75215 ... My Parent's PID: 75213
+Hello! My process PID is: 75228 ... My Parent's PID: 75213
+Hello! My process PID is: 75229 ... My Parent's PID: 75213
+Hello! My process PID is: 75230 ... My Parent's PID: 75213
+
+--- [ Multiple NumChild: 8 ] ---
+
+Hello! My process PID is: 75235 ... My Parent's PID: 75233
+Hello! My process PID is: 75244 ... My Parent's PID: 75233
+Hello! My process PID is: 75246 ... My Parent's PID: 75233
+Hello! My process PID is: 75247 ... My Parent's PID: 75233
+Hello! My process PID is: 75249 ... My Parent's PID: 75233
+Hello! My process PID is: 75265 ... My Parent's PID: 75233
+Hello! My process PID is: 75267 ... My Parent's PID: 75233
+Hello! My process PID is: 75270 ... My Parent's PID: 75233
+
+
+Testing System Programming w/ Chains of Childs...
+
+************************************************
+
+
+--- [ Chains NumChild: 2 ] ---
+
+Hello! My process PID is: 75282 ... My Parent's PID: 75276
+Hello! My process PID is: 75284 ... My Parent's PID: 75282
+
+--- [ Chains NumChild: 4 ] ---
+
+Hello! My process PID is: 75295 ... My Parent's PID: 75290
+Hello! My process PID is: 75304 ... My Parent's PID: 75295
+Hello! My process PID is: 75305 ... My Parent's PID: 75304
+Hello! My process PID is: 75307 ... My Parent's PID: 75305
+
+--- [ Chains NumChild: 8 ] ---
+
+Hello! My process PID is: 75338 ... My Parent's PID: 75333
+Hello! My process PID is: 75342 ... My Parent's PID: 75338
+Hello! My process PID is: 75346 ... My Parent's PID: 75342
+Hello! My process PID is: 75347 ... My Parent's PID: 75346
+Hello! My process PID is: 75349 ... My Parent's PID: 75347
+Hello! My process PID is: 75351 ... My Parent's PID: 75349
+Hello! My process PID is: 75352 ... My Parent's PID: 75351
+Hello! My process PID is: 75354 ... My Parent's PID: 75352
