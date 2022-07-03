@@ -1,0 +1,42 @@
+Enter number of people (Max [20]): 6                                            
+                                                                                
+Enter name (lastname, firstname): Ryan, Elizabeth                               
+Enter age: 62                                                                   
+                                                                                
+Enter name (lastname, firstname): McIntyre, Osborne                             
+Enter age: 84                                                                   
+                                                                                
+Enter name (lastname, firstname): DuMond, Kristin                               
+Enter age: 18                                                                   
+                                                                                
+Enter name (lastname, firstname): Larson, Lois                                  
+Enter age: 42                                                                   
+                                                                                
+Enter name (lastname, firstname): Thorpe, Trinity                               
+Enter age: 15                                                                   
+                                                                                
+Enter name (lastname, firstname): Ruiz, Pedro                                   
+Enter age: 35                                                                   
+                                                                                
+                                                                                
+Original list                                                                   
+----------------------------                                                    
+  Ryan, Elizabeth          62                                                   
+  McIntyre, Osborne        84                                                   
+  DuMond, Kristin          18                                                   
+  Larson, Lois             42                                                   
+  Thorpe, Trinity          15                                                   
+  Ruiz, Pedro              35                                                   
+                                                                                
+                                                                                
+Alphabetized list                                                               
+----------------------------                                                    
+  DuMond, Kristin          18                                                   
+  Larson, Lois             42                                                   
+  McIntyre, Osborne        84                                                   
+  Ruiz, Pedro              35                                                   
+  Ryan, Elizabeth          62                                                   
+  Thorpe, Trinity          15                                                   
+                                                                                
+Youngest: Thorpe, Trinity 15                                                    
+Age Average:  42.67    

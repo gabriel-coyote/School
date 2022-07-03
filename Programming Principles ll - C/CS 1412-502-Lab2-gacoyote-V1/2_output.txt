@@ -1,0 +1,13 @@
+Enter initial presence of Cobalt amount, in grams: 10                                                                                        
+                                                                                                                                             
+                                                                                                                                             
+Initial Cobalt-60 Amount: 10.000                                                                                                             
+                                                                                                                                             
+                                                                                                                                             
+YEARS ELAPSED     AMOUNT LEFT (Grams)                                                                                                        
+************************************                                                                                                         
+Year: 1           Amount: 8.768                                                                                                              
+Year: 2           Amount: 7.688                                                                                                              
+Year: 3           Amount: 6.741                                                                                                              
+Year: 4           Amount: 5.911                                                                                                              
+Year: 5           Amount: 5.183    

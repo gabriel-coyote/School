@@ -1,0 +1,13 @@
+Enter the purchase price: 
+6500
+Enter the down payment: 
+500
+Enter the annual interest rate: 
+9
+Enter the total number of payments: 
+36
+**********************************
+
+The amount borrowed: $6000.00
+Your monthly payment is: $190.80
+

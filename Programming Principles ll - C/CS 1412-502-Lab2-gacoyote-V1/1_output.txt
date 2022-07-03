@@ -1,0 +1,7 @@
+Enter the purchase total: 122                                                              
+                                                                                           
+Are you teacher?                                                                           
+Enter 'yes' or 'no': yes                                                                   
+                                                                                           
+                                                                                           
+'receipt.txt' was successfully created. 

@@ -1,0 +1,6 @@
+Enter the barcode's 12 digits SEPARATED by spaces:0 7 9 4 0 0 8 0 4 5 0 1
+
+The result from step 1: 63
+The resul from step 2: 79
+
+validated
