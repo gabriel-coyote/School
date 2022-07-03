@@ -1,0 +1,4 @@
+C:\Users\ericr\Desktop\Project32_VS2019\Debug\Project.exe
+C:\Users\ericr\Desktop\Project32_VS2019\Debug\Project.pdb
+C:\Users\gabri\Documents\College Work\Texas Tech\(YEAR 2) Fall 2020 - Spring 2021\Spring Semester\CS 2350 { Organization and Assembly Language }\Assignments\Assignment ONE\Assignment_1\Debug\Project.exe
+C:\Users\gabri\Documents\College Work\Texas Tech\(YEAR 2) Fall 2020 - Spring 2021\Spring Semester\CS 2350 { Organization and Assembly Language }\Assignments\Assignment ONE\Assignment_1\Debug\Project.pdb
