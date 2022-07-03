@@ -1,0 +1,8 @@
+C:\Users\gabri\Documents\College Work\Texas Tech\(YEAR 2) Fall 2020 - Spring 2021\Spring Semester\CS 2350 { Organization and Assembly Language }\Assignments\Assignment 3\Assignment_3\Assignment_3\Debug\Assignment_3.exe
+C:\Users\gabri\Documents\College Work\Texas Tech\(YEAR 2) Fall 2020 - Spring 2021\Spring Semester\CS 2350 { Organization and Assembly Language }\Assignments\Assignment 3\Assignment_3\Assignment_3\Debug\Assignment_3.pdb
+C:\Users\gabri\Documents\College Work\Texas Tech\(YEAR 2) Fall 2020 - Spring 2021\Spring Semester\CS 2350 { Organization and Assembly Language }\Assignments\Assignment 6\Assignment_3\Assignment_3\Debug\Assignment_6.exe
+C:\Users\gabri\Documents\College Work\Texas Tech\(YEAR 2) Fall 2020 - Spring 2021\Spring Semester\CS 2350 { Organization and Assembly Language }\Assignments\Assignment 6\Assignment_3\Assignment_3\Debug\Assignment_6.pdb
+C:\Users\gabri\Documents\College Work\Texas Tech\(YEAR 2) Fall 2020 - Spring 2021\Spring Semester\CS 2350 { Organization and Assembly Language }\Assignments\Assignment 6\Assignment_6\Assignment_6\Debug\Assignment_6.exe
+C:\Users\gabri\Documents\College Work\Texas Tech\(YEAR 2) Fall 2020 - Spring 2021\Spring Semester\CS 2350 { Organization and Assembly Language }\Assignments\Assignment 6\Assignment_6\Assignment_6\Debug\Assignment_6.pdb
+C:\Users\gabri\Documents\College Work\Texas Tech\(YEAR 2) Fall 2020 - Spring 2021\Spring Semester\CS 2350 { Organization and Assembly Language }\Assignments\Assignment 7\Assignment_6\Assignment_6\Debug\Assignment_7.exe
+C:\Users\gabri\Documents\College Work\Texas Tech\(YEAR 2) Fall 2020 - Spring 2021\Spring Semester\CS 2350 { Organization and Assembly Language }\Assignments\Assignment 7\Assignment_6\Assignment_6\Debug\Assignment_7.pdb
